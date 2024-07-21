@@ -1,4 +1,5 @@
-# Sentiment Analysis with DistilBERT
+# SentimentAnalysis-DistilBERT
+**Sentiment Analysis with DistilBERT**
 
 This repository contains a Jupyter Notebook for performing sentiment analysis using the DistilBERT model. The notebook demonstrates the process of fine-tuning DistilBERT for text classification tasks, specifically for sentiment analysis.
 
